@@ -1,0 +1,49 @@
+.Definitions{
+    width: 65%;
+    height: 70%;
+    margin: 20px 0 20px 0;
+	padding: 10px 0 0 0;
+    background-color: white;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+	border-radius: 40px 0 40px 0;
+}
+
+.viewDefinitions{
+    width: 70%;
+    height: 70%;
+    margin: 20px 0 20px 0;
+	padding: 20px 5px 5px 40px;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:flex-start;
+}
+
+.viewDefinitions__header{
+	width: 100%;
+	display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.Meanings{
+	margin: 0 0 0 20px;
+}
+
+.Favorites{
+    width: 20%;
+    height: 70%;
+    margin: 20px 0 0 0;
+    background-color: white;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
